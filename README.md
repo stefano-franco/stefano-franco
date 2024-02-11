@@ -1,6 +1,6 @@
 ## Hey :wave:, I'm Stefano!
 
-I am a :cloud: AWS Platform Specialist and spend most of my time writing infrastructure as code.
+I am a :cloud: AWS Platform Specialist and spend most of my time writing Infrastructure as Code.
 <br/>
 <br/>
 
