@@ -1,15 +1,14 @@
 ## Hey :wave:, I'm Stefano!
 
-I am a :cloud: devops engineer and dedicating most of my time building infrastructure as code.
+I am a :cloud: AWS Platform Specialist and spend most of my time writing infrastructure as code.
 <br/>
 <br/>
 
 ## :computer: Technologies I Love
-* Terraform
-* Ansible
+* AWS Services
+* Terraform / OpenTofu
 * Python
-* Docker
-* HTML & CSS
+* CI/CD
 
 ## :bar_chart: Stats
 
