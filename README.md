@@ -1,17 +1,12 @@
 ## Hey :wave:, I'm Stefano!
 
-I am a :cloud: AWS Platform Specialist and spend most of my time writing Infrastructure as Code.
-<br/>
-<br/>
+I’m passionate about helping enterprises unlock the full potential of AWS by building scalable, secure, and resilient developer platforms. 🏗️
 
-## :computer: Technologies I Love
-* AWS Services
-* Terraform / OpenTofu
-* Python
-* CI/CD
+🔨 What I Do:
+Design enterprise-grade AWS Landing Zones, implement DevOps strategies, and leverage Terraform / OpenTofu to ensure secure, compliant, and efficient cloud environments. I also love solving complex AWS networking challenges, especially through automation.
 
-## :bar_chart: Stats
+🎤 Speaking and Community Involvement:
+As a public speaker and AWS Community Builder, I actively contribute to the AWS community, sharing knowledge and best practices, and collaborating with like-minded professionals.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stefano-franco&layout=compact">
-
-![Stefanos's github stats](https://github-readme-stats.vercel.app/api?username=stefano-franco&show_icons=true&hide=[%22issues%22])
+🎯 My Mission:
+I aim to drive innovation by simplifying cloud management and empowering teams with modern tools, automation, and platform engineering expertise.
